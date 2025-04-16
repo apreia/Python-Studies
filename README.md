@@ -6,7 +6,7 @@ Este repositório reúne todos os meus estudos, exercícios e projetos desenvolv
 
 ## 📖 Descrição
 
-Aqui você encontrará materiais organizados de acordo com os cursos realizados no **Curso em Vídeo**. O repositório inclui exercícios práticos, desafios e projetos que reforçam o aprendizado e a aplicação dos conceitos de **Python**.
+Aqui você encontrará materiais organizados de acordo com as plataformas utilizadas. O repositório inclui aulas, exercícios práticos e desafios que reforçam o aprendizado e a aplicação dos conceitos de **Python**.
 
 ---
 
@@ -18,7 +18,7 @@ Aqui você encontrará materiais organizados de acordo com os cursos realizados 
 
 ---
 
-## 📚 Plataforma Utilizada
+## 📚 Plataformas Utilizadas
 
 ### 🔹 **Curso em Vídeo**
 O [Curso em Vídeo](https://www.cursoemvideo.com/) é uma plataforma gratuita de ensino online que oferece cursos de programação. Os cursos de **Python** incluem:
